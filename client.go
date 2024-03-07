@@ -22,7 +22,7 @@ const (
 	defaultAccept       = "application/json"
 	defaultStreamAccept = "text/event-stream"
 	defaultAPIVersion   = "2023-06-01"
-	defaultBetaVersion  = "messages-2023-12-15"
+	defaultBetaVersion  = ""
 )
 
 type Client struct {
