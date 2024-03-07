@@ -1,4 +1,4 @@
-module anthropic
+module github.com/gage-technologies/anthropic-go
 
 go 1.22.0
 
